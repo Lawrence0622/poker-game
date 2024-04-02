@@ -1,5 +1,6 @@
 # poker-game
 #check out the README file
+
 import random
 import math
 import matplotlib.pyplot as plt
@@ -36,7 +37,6 @@ while player_rank != 5000:
     print(player_1)
     print(computer_1)
     print(poker)
-
     def trancard(input):
         true_input = []
         for i in input:
