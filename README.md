@@ -1,6 +1,60 @@
 # poker-game
 #check out the README file
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import random
 import math
 import matplotlib.pyplot as plt
